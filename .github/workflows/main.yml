@@ -1,4 +1,4 @@
-name: CI - PersistenciaService
+name: Run Unit Tests Only
 
 on:
   push:
@@ -9,19 +9,23 @@ on:
       - '*'
 
 jobs:
-  build-test:
+  test-only:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
+      - name: 📥 Checkout do código
         uses: actions/checkout@v3
 
-      - name: Setup .NET 8
+      - name: 🛠️ Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '8.x'
+          dotnet-version: '8.0.x'
 
-      - name: Restore dependencies
-        run: dotnet restore
+      - name: 📦 Restaurar pacotes do projeto de teste
+        run: dotnet restore PersistenciaService.Tests/PersistenciaService.Tests.csproj
 
-      - name: Build and Test
-        run: dotnet test PersistenciaService.Tests/PersistenciaService.Tests.csproj --configuration Release
+      - name: 🧪 Build dos testes
+        run: dotnet build PersistenciaService.Tests/PersistenciaService.Tests.csproj --configuration Release
+
+      - name: 🧪 Executar testes
+        run: dotnet test PersistenciaService.Tests/PersistenciaService.Tests.csproj --no-build --verbosity normal

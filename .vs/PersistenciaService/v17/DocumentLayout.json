@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\consumers\\contatodeletedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\consumers\\contatodeletedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C297C91-C107-4ED4-6ED2-3D04D09C7A3C}|..\\TechChallenge.Shared\\TechChallenge.Shared\\TechChallenge.Shared.csproj|e:\\techchallenges\\fase 3\\techchallenge.shared\\techchallenge.shared\\events\\contatodeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\consumers\\contatoupdatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\consumers\\contatoupdatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\persistenciaservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\persistenciaservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\persistenciaservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\persistenciaservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\consumers\\contatocreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\consumers\\contatocreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\repositories\\contatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\data\\models\\municipiomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\data\\models\\municipiomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\repositories\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\repositories\\icontatorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\services\\viacep\\viacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\services\\viacep\\viacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\services\\viacep\\iviacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\services\\viacep\\iviacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\services\\viacep\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\services\\viacep\\viacepresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740CA372-A624-46EA-BC05-4597C83A9E4A}|PersistenciaService.Tests\\PersistenciaService.Tests.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice.tests\\contatocreatedconsumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740CA372-A624-46EA-BC05-4597C83A9E4A}|PersistenciaService.Tests\\PersistenciaService.Tests.csproj|solutionrelative:persistenciaservice.tests\\contatocreatedconsumertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\data\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\data\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|e:\\techchallenges\\fase 3\\persistenciaservice\\persistenciaservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6736E518-DD91-42D7-AD01-B5C5508DC00E}|PersistenciaService\\PersistenciaService.csproj|solutionrelative:persistenciaservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContatoDeletedConsumer.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Consumers\\ContatoDeletedConsumer.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Consumers\\ContatoDeletedConsumer.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Consumers\\ContatoDeletedConsumer.cs",
+              "RelativeToolTip": "PersistenciaService\\Consumers\\ContatoDeletedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:50:00.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContatoDeletedEvent.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\TechChallenge.Shared\\TechChallenge.Shared\\Events\\ContatoDeletedEvent.cs",
+              "RelativeDocumentMoniker": "..\\TechChallenge.Shared\\TechChallenge.Shared\\Events\\ContatoDeletedEvent.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\TechChallenge.Shared\\TechChallenge.Shared\\Events\\ContatoDeletedEvent.cs",
+              "RelativeToolTip": "..\\TechChallenge.Shared\\TechChallenge.Shared\\Events\\ContatoDeletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:47:56.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoUpdatedConsumer.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Consumers\\ContatoUpdatedConsumer.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Consumers\\ContatoUpdatedConsumer.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Consumers\\ContatoUpdatedConsumer.cs",
+              "RelativeToolTip": "PersistenciaService\\Consumers\\ContatoUpdatedConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:43:00.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersistenciaService",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\PersistenciaService.csproj",
+              "RelativeDocumentMoniker": "PersistenciaService\\PersistenciaService.csproj",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\PersistenciaService.csproj",
+              "RelativeToolTip": "PersistenciaService\\PersistenciaService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T04:50:57.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersistenciaService.csproj",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\PersistenciaService.csproj",
+              "RelativeDocumentMoniker": "PersistenciaService\\PersistenciaService.csproj",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\PersistenciaService.csproj",
+              "RelativeToolTip": "PersistenciaService\\PersistenciaService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T04:38:05.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContatoCreatedConsumerTests.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService.Tests\\ContatoCreatedConsumerTests.cs",
+              "RelativeDocumentMoniker": "PersistenciaService.Tests\\ContatoCreatedConsumerTests.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService.Tests\\ContatoCreatedConsumerTests.cs",
+              "RelativeToolTip": "PersistenciaService.Tests\\ContatoCreatedConsumerTests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAWwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:42:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContatoRepository.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Repositories\\ContatoRepository.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Repositories\\ContatoRepository.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Repositories\\ContatoRepository.cs",
+              "RelativeToolTip": "PersistenciaService\\Repositories\\ContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:38:11.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IContatoRepository.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Repositories\\IContatoRepository.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Repositories\\IContatoRepository.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Repositories\\IContatoRepository.cs",
+              "RelativeToolTip": "PersistenciaService\\Repositories\\IContatoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:37:56.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViaCepService.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Services\\ViaCep\\ViaCepService.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Services\\ViaCep\\ViaCepService.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Services\\ViaCep\\ViaCepService.cs",
+              "RelativeToolTip": "PersistenciaService\\Services\\ViaCep\\ViaCepService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:34:36.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IViaCepService.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Services\\ViaCep\\IViaCepService.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Services\\ViaCep\\IViaCepService.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Services\\ViaCep\\IViaCepService.cs",
+              "RelativeToolTip": "PersistenciaService\\Services\\ViaCep\\IViaCepService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:34:25.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViaCepResponse.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Services\\ViaCep\\ViaCepResponse.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Services\\ViaCep\\ViaCepResponse.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Services\\ViaCep\\ViaCepResponse.cs",
+              "RelativeToolTip": "PersistenciaService\\Services\\ViaCep\\ViaCepResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:34:10.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PersistenciaService\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:30:26.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MunicipioModel.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Data\\Models\\MunicipioModel.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Data\\Models\\MunicipioModel.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Data\\Models\\MunicipioModel.cs",
+              "RelativeToolTip": "PersistenciaService\\Data\\Models\\MunicipioModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:30:12.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Data\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Data\\Models\\ContatoModel.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Data\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "PersistenciaService\\Data\\Models\\ContatoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T03:29:59.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\appsettings.json",
+              "RelativeDocumentMoniker": "PersistenciaService\\appsettings.json",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\appsettings.json",
+              "RelativeToolTip": "PersistenciaService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T02:24:25.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Program.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Program.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Program.cs",
+              "RelativeToolTip": "PersistenciaService\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAD4v04AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:20:57.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContatoCreatedConsumer.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Consumers\\ContatoCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Consumers\\ContatoCreatedConsumer.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Consumers\\ContatoCreatedConsumer.cs",
+              "RelativeToolTip": "PersistenciaService\\Consumers\\ContatoCreatedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:20:32.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Worker.cs",
+              "RelativeDocumentMoniker": "PersistenciaService\\Worker.cs",
+              "ToolTip": "E:\\TechChallenges\\Fase 3\\PersistenciaService\\PersistenciaService\\Worker.cs",
+              "RelativeToolTip": "PersistenciaService\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T02:20:05.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+E:\TechChallenges\Fase 3\PersistenciaService\PersistenciaService\obj\Debug\net8.0\PersistenciaService.csproj.AssemblyReference.cache
+E:\TechChallenges\Fase 3\PersistenciaService\PersistenciaService\obj\Debug\net8.0\PersistenciaService.GeneratedMSBuildEditorConfig.editorconfig
+E:\TechChallenges\Fase 3\PersistenciaService\PersistenciaService\obj\Debug\net8.0\PersistenciaService.AssemblyInfoInputs.cache
+E:\TechChallenges\Fase 3\PersistenciaService\PersistenciaService\obj\Debug\net8.0\PersistenciaService.AssemblyInfo.cs
+E:\TechChallenges\Fase 3\PersistenciaService\PersistenciaService\obj\Debug\net8.0\PersistenciaService.csproj.CoreCompileInputs.cache
